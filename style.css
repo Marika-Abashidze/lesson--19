@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 25px;
+}
+
+.nav-ul{
+    display: flex;
+}
+.nav-li{
+    margin: 10px;
+}
+
+.toggle-button{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 25px;
+    display: none;
+}
